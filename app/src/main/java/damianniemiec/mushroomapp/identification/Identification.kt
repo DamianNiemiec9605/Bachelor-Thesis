@@ -86,8 +86,11 @@ class Identification : Fragment() {
 
         btnGoToDetails.setOnClickListener {
             val atlasFragment = Atlas.newInstance()
-            val itemView = atlasFragment.getRecyclerView().findViewHolderForAdapterPosition(LABEL_NUMBERS[lastRecognitionLabel] ?: -1).itemView
-            itemView.performClick()
+//            val itemView = atlasFragment.getRecyclerView().findViewHolderForAdapterPosition(LABEL_NUMBERS[lastRecognitionLabel] ?: -1).itemView
+//            itemView.performClick()
+            val transaction = activity?.supportFragmentManager?.beginTransaction()
+            transaction?.replace(R.id.container, atlasFragment)
+            transaction?.commit()
         }
         initTensorFlowAndLoadModel()
 

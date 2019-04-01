@@ -7,6 +7,7 @@
     <string name="unknown_text">Nieznany</string>
     <string name="edible">Jadalny</string>
     <string name="poisonous">Trujący</string>
+    <string name="go_to_atlas">Przejdź do atlasu</string>
 
     <string-array name="mushroom_descriptions">
         <item>Ma duży mięsisty kapelusz o średnicy 8–25 cm w różnych odcieniach brązu. Osadzony jest na grubym, jasnym, delikatnie usiatkowanym trzonie. Spód kapelusza zbudowany jest z rurek – u młodych osobników są białawe do kremowych, u dojrzałych żółtawe do oliwkowozielonych. Miąższ borowika po przekrojeniu nie zmienia barwy.</item>
