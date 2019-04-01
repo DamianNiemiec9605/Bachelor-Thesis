@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">MushroomApp</string>
+    <string name="action_identify">Rozpoznaj</string>
+    <string name="action_atlas">Atlas</string>
+    <string name="action_about">O aplikacji</string>
+    <string name="button_detect">Rozpoznaj grzyb</string>
+    <string name="unknown_text">Nieznany</string>
+    <string name="edible">Jadalny</string>
+    <string name="poisonous">Trujący</string>
+
+    <string-array name="mushroom_descriptions">
+        <item>Ma duży mięsisty kapelusz o średnicy 8–25 cm w różnych odcieniach brązu. Osadzony jest na grubym, jasnym, delikatnie usiatkowanym trzonie. Spód kapelusza zbudowany jest z rurek – u młodych osobników są białawe do kremowych, u dojrzałych żółtawe do oliwkowozielonych. Miąższ borowika po przekrojeniu nie zmienia barwy.</item>
+        <item>Ma duży, nawet do 30 cm, bladobrązowy, z przylegającymi łuskami, kapelusz. W początkowej fazie wzrostu jest kulisty, z czasem płasko rozłożony, kształtem przypominający parasol, z wyraźnym garbkiem na szczycie. Jest osadzony na długim trzonie z zygzakowatym wzorkiem, bulwiastą podstawą, grubym, ruchomym pierścieniem. Blaszki białawe, gęste.</item>
+        <item>Poduszkowaty, miękki, gładki kapelusz w różnych odcieniach szarości lub szarobrązowy o średnicy 4–12 cm. Od spodu szarobiałe rurki, które po naciśnięciu lekko brązowieją. Miąższ białawy, po nacięciu nie zmienia barwy. U młodych egzemplarzy jędrny i smaczny. Trzon wysoki, niezbyt gruby, na białym tle posiada czarniawe lub szarobrązowawe szorstkie łuseczki.</item>
+        <item>Szeroki, brązowy (od ciemno- do żółtobrązowego) kapelusz o średnicy 5–15 cm pokryty jest lepką, błyszczącą skórką. Na jego spodzie wyraźnie widoczne żółtawe rurki (u starszych okazów oliwkowożółte), które po naciśnięciu nie zmieniają barwy. Białawy trzon ze skórowatym, od spodu bladofioletowoszarym, pierścieniem. Miąższ przyjemny w smaku.</item>
+        <item>Kapelusz w środku wklęśnięty lub lejkowaty o średnicy 4–10 cm, cielistoczerwonawy do pomarańczowoczerwonawego z ciemniejszym koncentrycznym strefowaniem lub ułożonymi w kręgi jamkowatymi plamkami z wyraźnie podwiniętymi brzegami i blaszkami na spodzie. Blaszki po uszkodzeniu zielenieją. Skórka gładka, sucha, podczas wilgotnej pogody śluzowata. Trzon ma barwę kapelusza, równo gruby, wnętrze początkowo pełne, później puste.</item>
+        <item>Ten pospolity grzyb (Amanita  rubescens) rośnie zarówno w lasach liściastych, jak i iglastych. I choć uważany jest za sztandarowego truciciela – zatrucia nim zdarzają się stosunkowo rzadko, bo na ogół wszyscy go znają. Dużo bardziej niebezpieczny jest muchomor sromotnikowy oraz muchomor wiosenny i muchomor jadowity. Te trzy grzyby powodują większość śmiertelnych zatruć. Muchomor czerwony na ogół powoduje lżejsze zatrucia, co nie zmienia postaci rzeczy, że należy do grzybów trujących.</item>
+        <item>Opieńki inaczej opieńka miodowa jest grzybem jadalnym. Te okazy znajdziemy nie tylko w lesie, ale także w parkach, sadach. Szukać należy ich dopiero późną jesienią. Pamiętaj, że przygotowując dania z opieniek, wcześniej należy je ugotować, w przeciwnym wypadku może dojść do niepożądanych symptomów.</item>
+        <item>Szeroki biały kapelusz od 3 do 8 cm. Na jego spodzie znajdują się szerokie blaszki. Początkowo białe, potem różowe, a u dojrzałych okazów niemal czarne. Na dość wysmukłym trzonie występuje charakterystyczny, słabo wykształcony i nietrwały pierścień. Przy zbieraniu dziko rosnących pieczarek trzeba zachować ostrożność, aby nie pomylić ich z pieczarką żółtawą, która jest trującym grzybem.</item>
+        <item>Ma żółte (z wiekiem mniej jaskrawe) kapelusze średniej wielkości o średnicy i wysokości 1–5 cm. Trzon żółty, krótki i wygięty, zwężający się ku podstawie. Zamiast blaszek – grubsze, szeroko rozstawione listewki. Starsze okazy przybierają kształt lejkowaty i mają postrzępione brzegi. Miąższ jest zwarty, koloru białego do bladożółtego.</item>
+        <item>Ma duży połyskliwy, przeważnie ciemnobrązowy, kapelusz o średnicy 3–15 cm, podobny do borowika, ale ciemniejszy. Od spodu kapelusza dobrze widoczne rurki – u młodych okazów kremowe i bladożółte, u starszych oliwkowozielone. Po ugnieceniu przeważnie sinieją. Trzon równo gruby z włókienkami brązowymi. Miąższ po przekrojeniu siniejący, barwa ta jednak szybko zanika.</item>
+        <item>W grzybie tym znajdują się dwa rodzaje toksyn: fallotoksyny oraz amatoksyny. Po zjedzeniu  powodują one  nieodwracalne uszkodzenie wątroby, nerek i innych narządów. Niestety nawet najdłuższe gotowanie nie niszczy toksyn. Jeden muchomor, może zatruć nawet kilkuosobową rodzinę.</item>
+        <item>Kapelusz borowika szatańskiego osiąga od 6–25 cm średnicy. Może być w kolorze szarym, siwym lub wpadającym lekko w żółty. Jego skóra nie oddziela się od miąższu, jest matowa. Po naciśnięciu kapelusza, zmienia barwę na brązową. Trzon mierzy 4–12 cm wysokości. Najczęściej jest cieniowany: żółty od góry, dalej różowy i na dole brązowy. Uwaga! Występują także trzonki całkowicie czerwone lub żółte.</item>
+    </string-array>
+
+    <string-array name="polish_names">
+        <item>Borowik szlachetny</item>
+        <item>Czubajka kania</item>
+        <item>Koźlarz babka</item>
+        <item>Maślak zwyczajny</item>
+        <item>Mleczaj rydz</item>
+        <item>Muchomor czerwony</item>
+        <item>Opieńka</item>
+        <item>Pieczarka</item>
+        <item>Pieprznik jadalny</item>
+        <item>Podgrzybek</item>
+        <item>Muchomor sromotnikowy</item>
+        <item>Borowik szatański</item>
+    </string-array>
+
+    <string-array name="latin_names">
+        <item>Boletus edulis</item>
+        <item>Macrolepiota procera</item>
+        <item>Leccinum scabrum</item>
+        <item>Suillus luteus</item>
+        <item>Lactarius deliciosus</item>
+        <item>Amanita muscaria</item>
+        <item>Armillaria</item>
+        <item>Agaricus</item>
+        <item>Cantharellus cibarius</item>
+        <item>Imleria badia</item>
+        <item>Amanita phalloides</item>
+        <item>Rubroboletus satanas</item>
+    </string-array>
+    <string name="about">Głównym zadaniem aplikacji jest pomoc niedoświadczonym pasjonatom grzybobrania poprzez rozpoznanie gatunku grzyba na podstawie zdjęcia zrobionego telefonem. Oprócz tego, aplikacja jest też atlasem grzybów, które można spotkać w polskich lasach. </string>
+    <string name="warning">Uwaga!\nAplikacja może się pomylić i źle sklasyfikować gatunek grzyba na zdjęciu. Nie ufaj jej w 100% i nie decyduj na jej podstawie, czy grzyb, który właśnie znalazłeś jest jadalny.</string>
+</resources>

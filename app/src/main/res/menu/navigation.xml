@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_atlas"
+        android:icon="@drawable/ic_browse"
+        android:title="@string/action_atlas"/>
+
+    <item
+        android:id="@+id/navigation_identify"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="@string/action_identify"/>
+
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/ic_about"
+        android:title="@string/action_about"/>
+
+</menu>
